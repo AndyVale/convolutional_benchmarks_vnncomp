@@ -1,3 +1,10 @@
+# <a href = "https://github.com/ChristopherBrix/metaroom_vnn_comp2023"> MetaRoom Benchmark for VNN-COMP 2023 </a>
+This is the MetaRoom Benchmark for [VNN-COMP 2023](https://sites.google.com/view/vnn2023). This public repo follows the instructions [here](https://github.com/stanleybak/vnncomp2023/issues/2) and [here](https://vnncomp.christopher-brix.de/benchmark/details).
+
+## Introduction
+MetaRoom Benchmark is based on [MetaRoom dataset](https://sites.google.com/view/metaroom-dataset/home), which aims at the robustness certification and verification of deep learning based vision models against camera motion perturbation in the indoor robotics application. Specifically, this benchmark focuses on the classification over 20 labels against camera moves within tiny perturbation radii of  translation along z-axis and rotation along y-axis (e.g. 1e-5 m, 2.5e-4 deg). More details about the dataset can be found in [PDF](https://proceedings.mlr.press/v205/hu23b.html). 
+
+
 ### --- List of all metaroom_2023 [conv_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2024_benchmarks'> vnncomp2024_benchmarks </a>)---
 
 #### 4cnn_ry_0_0_no_custom_OP.onnx 

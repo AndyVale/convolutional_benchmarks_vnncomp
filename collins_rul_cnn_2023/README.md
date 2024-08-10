@@ -1,3 +1,7 @@
+# <a href = "https://github.com/loonwerks/vnncomp2022"> Collins Aerospace benchmark problem </a>
+
+Benchmark problem from Collins Aerospace for the 2022 VNN Competition
+
 ### --- List of all collins_rul_cnn_2023 [conv_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2024_benchmarks'> vnncomp2024_benchmarks </a>)---
 
 #### NN_rul_full_window_20.onnx 
