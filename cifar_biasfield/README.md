@@ -1,5 +1,7 @@
 # <a href="https://github.com/pat676/cifar_biasfield_vnncomp2022">cifar_biasfield_vnncomp2022</a>
 
+Benchmark of convolutional networks trained on CIFAR (Canadian Institute For Advanced Research) datasets.
+
 ### --- List of all cifar_biasfield [conv_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2022_benchmarks'> vnncomp2022_benchmarks </a>)---
 
 #### cifar_base.onnx 

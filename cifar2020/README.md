@@ -4,8 +4,6 @@ This benchmark is the same as in 2021, and used to compare year-to-year improvem
 
 Copied from https://github.com/stanleybak/vnncomp2021
 
-
-
 ### --- List of all cifar2020 [conv_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2022_benchmarks'> vnncomp2022_benchmarks </a>)---
 
 #### cifar10_2_255_simplified.onnx 
