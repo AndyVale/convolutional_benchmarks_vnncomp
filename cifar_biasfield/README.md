@@ -4,10 +4,6 @@ Benchmark of convolutional networks trained on CIFAR (Canadian Institute For Adv
 
 ### --- List of all cifar_biasfield [conv_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2022_benchmarks'> vnncomp2022_benchmarks </a>)---
 
-#### cifar_base.onnx 
-	Number of parameters: 311690 
-	Node types: ['Flatten' 'Conv' 'Relu']
-
 #### cifar_bias_field_0.onnx 
 	Number of parameters: 363914 
 	Node types: ['Gemm' 'Conv' 'Relu' 'Flatten' 'Constant' 'Reshape']
