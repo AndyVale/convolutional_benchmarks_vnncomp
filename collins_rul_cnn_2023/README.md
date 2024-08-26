@@ -6,13 +6,13 @@ Benchmark problem provided by Collins Aerospace for the 2022 VNN Competition. Fo
 
 #### NN_rul_full_window_20.onnx 
 	Number of parameters: 62446 
-	Node types: ['Flatten' 'Conv' 'Relu' 'Dropout']
+	Node types: ['Relu' 'Dropout' 'Flatten' 'Conv']
 
 #### NN_rul_full_window_40.onnx 
 	Number of parameters: 262446 
-	Node types: ['Flatten' 'Conv' 'Relu' 'Dropout']
+	Node types: ['Relu' 'Dropout' 'Flatten' 'Conv']
 
 #### NN_rul_small_window_20.onnx 
 	Number of parameters: 60826 
-	Node types: ['Flatten' 'Conv' 'Relu' 'Dropout']
+	Node types: ['Relu' 'Dropout' 'Flatten' 'Conv']
 
